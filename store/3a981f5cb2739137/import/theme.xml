@@ -207,4 +207,33 @@
 <sound id="Party.mp3" name="Party" subtype="soundeffect" duration="74400" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="w9e61-qmeqj.swf" name="Random Props-Pics GoAnimate" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="qggdn-0m5a9.swf" name="Rainbow Background" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Stairs.mp3" name="Stairs" subtype="soundeffect" duration="7601" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Really Realistic plane crash sound effect.mp3" name="9/11 Plane Crash Sound Effect - SFX" subtype="soundeffect" duration="17737" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="lqnhzz9s.png" name="Airplane" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="channels4_profile.jpg" name="Kuba Kolodziejczak's Channel331" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-07-25 18-39-05-387.jpg" name="Kuba Kolodziejczak 9" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-06 21-41-29-725.jpg" name="Kuba Kolodziejczak 10" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="GoAniFire Demo Thumbnail Community Library.jpg" name="GoAniFire Demo Thumbnail" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="The_Andersons_House.png" name="The Anderson's House" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="The Many Adventure's Of The Creator And Friends.png" name="The Many Adventure's Of The Creator And Friends" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Klasky Csupo Robot Logo.mp3" name="Klasky Csupo Robot Logo" subtype="soundeffect" duration="5784" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Klasky Csupo Robot Logo (Vocoder).mp3" name="Klasky Csupo Robot Logo (Vocoder)" subtype="soundeffect" duration="5784" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<effect id="goani_new_flash_effect_28_invertcolor.swf" type="ANIME" resize="false" move="false" name="Inverted Color" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+<sound id="acid_jazz_vocoder.mp3" name="Club Jazz (Vocoder)" subtype="bgmusic" duration="33216" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Coffin Dance (EARRAPE).mp3" name="Coffin Dance" subtype="bgmusic" duration="24336" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Elmo's Song.mp3" name="Elmo's Song" subtype="bgmusic" duration="45672" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Coffin Dance.mp3" name="Coffin Dance (FIXED)" subtype="bgmusic" duration="24336" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="EARRAPE MUSIC.mp3" name="EARRAPE MUSIC" subtype="bgmusic" duration="186552" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Electric chair execution (sound effect).mp3" name="Electric chair execution" subtype="soundeffect" duration="16752" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="Bez nazwy.png" name="Execution Chair" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="MP5 Shooting.mp3" name="MP5 Shooting" subtype="soundeffect" duration="835" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="DoorOpen3.mp3" name="Door Open" subtype="soundeffect" duration="574" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="DoorClose0.mp3" name="Door Close" subtype="soundeffect" duration="679" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="DoorLocked.mp3" name="Door Locked" subtype="soundeffect" duration="1097" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Door Locked 2.mp3" name="Door Locked 2" subtype="soundeffect" duration="6269" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Door Locked 2 (LOUD).mp3" name="Door Locked (LOUD)" subtype="soundeffect" duration="6269" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Door Locked 2 (SUPER LOUD).mp3" name="Door Locked (SUPER LOUD)" subtype="soundeffect" duration="6269" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Angry German Kid Beating Up Sound Effect (EARRAPE).mp3" name="Angry German Kid Beating Up Sound Effect (EARRAPE)" subtype="soundeffect" duration="12460" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Angry German Kid Beating Sound Effect.mp3" name="AGK Beating Up" subtype="soundeffect" duration="12456" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="AGK Beating Sound Effect.mp3" name="AGK Beating Sound Effect" subtype="soundeffect" duration="12456" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 </theme>
